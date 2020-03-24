@@ -1,2 +1,2 @@
 # Hello-Education
-It's a website
+It's a educational based website
